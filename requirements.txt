@@ -1,0 +1,6 @@
+duckdb
+phidata
+streamlit
+python-dotenv
+sqlalchemy
+openai
